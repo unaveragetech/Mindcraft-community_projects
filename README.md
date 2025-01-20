@@ -1,4 +1,3 @@
-Here’s a concise and well-structured **README.md** for your Mindcraft Community Archive repository:
 
 ---
 
