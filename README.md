@@ -16,7 +16,7 @@ This repository aims to:
 ## **Directory Structure**
 Explore the following directories to find projects and resources:
 
-- **[Active Projects]([activeprojects)**: Actively maintained tools, mods, and plugins seeking community engagement.
+- **[Active Projects](activeprojects)**: Actively maintained tools, mods, and plugins seeking community engagement.
 - **[Archived Projects](/archived-projects)**: Completed or out-of-development projects ready for use or further adaptation.
 - **[Educational Resources](/educational-resources)**: Tutorials, guides, and examples to help you get started with Mindcraft development.
 
