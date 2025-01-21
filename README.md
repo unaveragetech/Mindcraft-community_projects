@@ -10,6 +10,9 @@ This repository aims to:
 - **Archive** community projects related to Mindcraft.
 - **Foster collaboration** by providing a space for sharing and maintaining projects.
 - **Preserve** valuable work for future use and adaptation.
+  '''
+  if your here for install help
+  join the discord or use[base installer](Installers/installers.md)
 
 ---
 
