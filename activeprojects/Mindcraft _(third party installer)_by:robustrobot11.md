@@ -1,4 +1,4 @@
-```markdown
+
 # Mindcraft  
 
 **App Name:** Mindcraft  (third party installer)
@@ -38,4 +38,4 @@ For inquiries or contributions, connect with the developer:
 - [Mindcraft Official Website](http://uukelele.ddns.net/mindcraft)  
 - [GitHub Repository: mindcraft-gui](https://github.com/uukelele-scratch/mindcraft-gui)  
 - [Developer Profile: uukelele-scratch](https://github.com/uukelele-scratch)  
-```
+
